@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858710826470",
+    "firebase_url": "https://testing-f5569.firebaseio.com",
+    "project_id": "testing-f5569",
+    "storage_bucket": "testing-f5569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858710826470:android:1b07fd00fa0d4205b34a27",
+        "android_client_info": {
+          "package_name": "com.example.dhoro_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858710826470-354v9urf1rg2lc8v6q35eeo20b5fossc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVQi7iZjfuHUbvGJyLtjLNAfp2FsSJ9Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858710826470-354v9urf1rg2lc8v6q35eeo20b5fossc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
