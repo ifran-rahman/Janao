@@ -12,7 +12,7 @@ The system is built using Flutter and Firebase is used as the database. For clou
 <img alt="Alt text" src="report.png">
 
 
-**Contributors** < /br>
+**Contributors** <br />
 [![](https://github.com/ifran-rahman.png?size=50)](https://github.com/ifran-rahman)
 [![](https://github.com/yearat.png?size=50)](https://github.com/yearat) 
 [![](https://github.com/Alumanob.png?size=50)](https://github.com/Alumanob) 
